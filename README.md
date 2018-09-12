@@ -8,12 +8,12 @@ See extract.go as an example of usage.
 
 ```go
 func main() {
-	// add the apple parser
-	exif.RegisterParsers(makernotes.Apple)
+    // add the apple parser
+    exif.RegisterParsers(makernotes.Apple)
 
     // ...
 
-	x, err := exif.Decode(f)
+    x, err := exif.Decode(f)
 
     // ...
 
