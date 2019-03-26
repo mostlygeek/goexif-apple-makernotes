@@ -8,6 +8,8 @@ github.com/rwcarlsen/goexif v0.0.0-20190318160743-2a313895547b h1:cFklxfhNjYzzED
 github.com/rwcarlsen/goexif v0.0.0-20190318160743-2a313895547b/go.mod h1:hPqNNc0+uJM6H+SuU8sEs5K5IQeKccPqeSjfgcKGgPk=
 github.com/rwcarlsen/goexif v0.0.0-20190318165123-9b9b2bf71276 h1:ffiONAcW+N9nbkUYDAnaOgVaoE82oeeKA/XC6qIf6rM=
 github.com/rwcarlsen/goexif v0.0.0-20190318165123-9b9b2bf71276/go.mod h1:hPqNNc0+uJM6H+SuU8sEs5K5IQeKccPqeSjfgcKGgPk=
+github.com/rwcarlsen/goexif v0.0.0-20190318165350-de6e3de636ba h1:HhI9rAHXJVfTVcZq0udlhsGqKnglZpGIwGuYC4TzPVU=
+github.com/rwcarlsen/goexif v0.0.0-20190318165350-de6e3de636ba/go.mod h1:hPqNNc0+uJM6H+SuU8sEs5K5IQeKccPqeSjfgcKGgPk=
 github.com/rwcarlsen/goexif v0.0.0-20190318171057-76e3344f7516 h1:unvLzUrgn54Nhn5yJB8qUBr/a7wiZHQaJ/8Y4yTGAjE=
 github.com/rwcarlsen/goexif v0.0.0-20190318171057-76e3344f7516/go.mod h1:hPqNNc0+uJM6H+SuU8sEs5K5IQeKccPqeSjfgcKGgPk=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
